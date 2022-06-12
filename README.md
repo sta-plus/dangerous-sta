@@ -1,2 +1,2 @@
 # dangerous-sta
-A live-build image with Supertux advance that breaks if you make mistakes in-game.
+A live-build image with SuperTux Advance that breaks if you make mistakes in-game.
